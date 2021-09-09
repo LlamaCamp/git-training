@@ -12,7 +12,7 @@
 ***
 
 ## Team List
--
+- [Daniel Chiang](https://www.linkedin.com/in/daniel-chiang-guerrero)
 -
 -
 -

@@ -2,7 +2,7 @@
 
 ***
 
-![Llamacamp](/logo.png)
+![Llamacamp](./img/logo.png)
 
 ## Administrative Personel
 

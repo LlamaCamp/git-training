@@ -15,6 +15,7 @@ jobs:
       with:
         markdown_dir: docs
         output_dir: tmp
+	media_dir: docs/img
     - uses: actions/upload-artifact@v1
       with:
         name: team-docs

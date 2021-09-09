@@ -2,7 +2,7 @@
 
 ***
 
-## Administrative personel
+## Administrative Personel
 
 - [Ivan Campana](https://twitter.com/icampana)
 - [Daniel Santibanez](https://twitter.com/santibanezdani)

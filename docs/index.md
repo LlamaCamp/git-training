@@ -15,7 +15,7 @@
 ***
 
 ## Team List
--
+- [Diego Cevallos] (https://twitter.com/diegojcevallose
 - [Julio Armijos](https://twitter.com/julioarmijos)
 -
 -

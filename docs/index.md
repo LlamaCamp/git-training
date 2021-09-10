@@ -15,8 +15,8 @@
 ***
 
 ## Team List
--
-- [Julio Armijos](https://twitter.com/julioarmijos)
+- Juan Marin
+- 
 -
 -
 -

@@ -15,7 +15,7 @@
 ***
 
 ## Team List
--[Joel Reinoso](https://twitter.com/joel_reinoso)
+- [Joel Reinoso](https://twitter.com/joel_reinoso)
 - 
 -
 -

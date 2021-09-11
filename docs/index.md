@@ -17,6 +17,6 @@
 ## Team List
 -
 - [Julio Armijos](https://twitter.com/julioarmijos)
--
+- [Daniela Condor](https://twitter.com/dani_cndr?s=08)
 -
 -

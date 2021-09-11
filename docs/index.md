@@ -20,6 +20,6 @@
 - [Julio Armijos](https://twitter.com/julioarmijos)
 - Juan Marin
 - 
--
+- [Daniela Condor](https://twitter.com/dani_cndr?s=08)
 -
 -

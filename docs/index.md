@@ -17,6 +17,6 @@
 ## Team List
 -
 - [Julio Armijos](https://twitter.com/julioarmijos)
-- [Isaias Ponce](https://www.facebook.com/Impala0012/)
+- [Isaias Ponce](https://www.linkedin.com/in/isaias-ponce-569109104/)
 -
 -

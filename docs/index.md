@@ -20,5 +20,6 @@
 - [Alex Bonilla](https://twitter.com/alexferbonilla)
 - [Steven Guamán](https://www.linkedin.com/in/steven-guam%C3%A1n-figueroa-ba3ba816b/)
 - [Julio Armijos](https://twitter.com/julioarmijos)
+- [Erick Garcia](https://www.linkedin.com/in/erick-garcia98-ec/)
 - [GitHub](https://github.com/)
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)

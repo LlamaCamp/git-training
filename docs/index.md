@@ -25,4 +25,4 @@
 - 
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
 -
--
+- [Michael Mora](https://github.com/micha3l999)

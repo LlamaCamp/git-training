@@ -22,3 +22,4 @@
 - [Julio Armijos](https://twitter.com/julioarmijos)
 - [GitHub](https://github.com/)
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
+- [Yury Romero](https://www.linkedin.com/in/yury-romero/)

@@ -1,4 +1,4 @@
-# Team Roster
+﻿# Team Roster
 
 
 ![Llamacamp](./img/logo.png)
@@ -25,4 +25,4 @@
 - 
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
 -
--
+- [Andres Loor](https://twitter.com/pichiloor)

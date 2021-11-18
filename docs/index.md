@@ -20,6 +20,7 @@
 - [Alex Bonilla](https://twitter.com/alexferbonilla)
 - [Steven Guamán](https://www.linkedin.com/in/steven-guam%C3%A1n-figueroa-ba3ba816b/)
 - [Julio Armijos](https://twitter.com/julioarmijos)
+- [Michael Mora](https://github.com/micha3l999)
 - [GitHub](https://github.com/)
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
 - [Jahir Parrales](https://github.com/ParralesJahir)

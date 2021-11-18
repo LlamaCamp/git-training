@@ -22,3 +22,5 @@
 - [Julio Armijos](https://twitter.com/julioarmijos)
 - [GitHub](https://github.com/)
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
+- [Jahir Parrales](https://github.com/ParralesJahir)
+- [John Quezada](https://www.linkedin.com/in/john-kleber-quezada-huayamave-42738520/)

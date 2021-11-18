@@ -17,12 +17,11 @@
 ## Team List
 
 - [Carlos Carvajal](https://twitter.com/_CarlosXavier98)
--
 - [Alex Bonilla](https://twitter.com/alexferbonilla)
 - [Steven Guamán](https://www.linkedin.com/in/steven-guam%C3%A1n-figueroa-ba3ba816b/)
 - [Julio Armijos](https://twitter.com/julioarmijos)
-- Juan Marin
-- 
+- [GitHub](https://github.com/)
 - [Daniela Condor](https://twitter.com/dani_cndr?s=08)
--
+- [Jahir Parrales](https://github.com/ParralesJahir)
+- [John Quezada](https://www.linkedin.com/in/john-kleber-quezada-huayamave-42738520/)
 - [Andres Loor](https://twitter.com/pichiloor)

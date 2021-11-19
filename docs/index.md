@@ -26,3 +26,4 @@
 - [Jahir Parrales](https://github.com/ParralesJahir)
 - [John Quezada](https://www.linkedin.com/in/john-kleber-quezada-huayamave-42738520/)
 - [Andres Loor](https://twitter.com/pichiloor)
+- [Paolca Chicaiza](https://www.linkedin.com/in/paola-chicaiza-m)
